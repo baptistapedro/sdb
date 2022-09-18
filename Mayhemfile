@@ -1,0 +1,4 @@
+project: sdb
+target: sdb
+cmds:
+  - cmd: '/sdb - '
